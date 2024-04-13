@@ -19,3 +19,10 @@ Listed below are the Data Columns:
 | Credit_History     | float64   |
 | Property_Area      | object    |
 | Loan_Status        | object    |
+
+I Predicted Loan Eligibility for Dream Housing Finance company using 
+1. Decision Tree Classifier 
+2. Logistic Regression
+3. K Nearest Neighbor
+4. Random Forest
+5. Support Vector Classifier
